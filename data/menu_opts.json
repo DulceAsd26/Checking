@@ -1,0 +1,26 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "fingerprint",
+            "texto": "Huella dactilar"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "account_box",
+            "texto": "Datos de usuario"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "settings",
+            "texto": "Opciones del programador"
+        },
+        {
+            "ruta" : "inputs",
+            "icon" : "note_add",
+            "texto": "Registro"
+        }
+        
+    ]
+}
